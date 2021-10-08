@@ -1,0 +1,36 @@
+C:\Users\anant\Desktop\.NET\MarioPROJ\MarioPROJ\bin\Debug\MarioPROJ.exe.config
+C:\Users\anant\Desktop\.NET\MarioPROJ\MarioPROJ\bin\Debug\MarioPROJ.exe
+C:\Users\anant\Desktop\.NET\MarioPROJ\MarioPROJ\bin\Debug\MarioPROJ.pdb
+C:\Users\anant\Desktop\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.Form1.resources
+C:\Users\anant\Desktop\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.Properties.Resources.resources
+C:\Users\anant\Desktop\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.csproj.GenerateResource.cache
+C:\Users\anant\Desktop\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.csproj.CoreCompileInputs.cache
+C:\Users\anant\Desktop\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.exe
+C:\Users\anant\Desktop\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.pdb
+C:\Users\anant\Desktop\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.csprojAssemblyReference.cache
+C:\Users\anant\Desktop\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.Start.resources
+C:\Users\anant\Desktop\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.End.resources
+E:\21JUNE_OFFICE\.NET\MarioPROJ\MarioPROJ\bin\Debug\MarioPROJ.exe.config
+E:\21JUNE_OFFICE\.NET\MarioPROJ\MarioPROJ\bin\Debug\MarioPROJ.exe
+E:\21JUNE_OFFICE\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.csproj.AssemblyReference.cache
+E:\21JUNE_OFFICE\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.End.resources
+E:\21JUNE_OFFICE\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.Form1.resources
+E:\21JUNE_OFFICE\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.Properties.Resources.resources
+E:\21JUNE_OFFICE\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.Start.resources
+E:\21JUNE_OFFICE\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.csproj.GenerateResource.cache
+E:\21JUNE_OFFICE\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.csproj.CoreCompileInputs.cache
+E:\21JUNE_OFFICE\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.exe
+E:\21JUNE_OFFICE\.NET\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.pdb
+E:\21JUNE_OFFICE\.NET\MarioPROJ\MarioPROJ\bin\Debug\MarioPROJ.pdb
+C:\Users\MSI 1\Downloads\Telegram Desktop\MarioPROJ\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.csproj.AssemblyReference.cache
+C:\Users\MSI 1\Downloads\Telegram Desktop\MarioPROJ\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.exe
+C:\Users\MSI 1\Downloads\Telegram Desktop\MarioPROJ\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.pdb
+C:\Users\MSI 1\Downloads\Telegram Desktop\MarioPROJ\MarioPROJ\MarioPROJ\bin\Debug\MarioPROJ.exe.config
+C:\Users\MSI 1\Downloads\Telegram Desktop\MarioPROJ\MarioPROJ\MarioPROJ\bin\Debug\MarioPROJ.exe
+C:\Users\MSI 1\Downloads\Telegram Desktop\MarioPROJ\MarioPROJ\MarioPROJ\bin\Debug\MarioPROJ.pdb
+C:\Users\MSI 1\Downloads\Telegram Desktop\MarioPROJ\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.End.resources
+C:\Users\MSI 1\Downloads\Telegram Desktop\MarioPROJ\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.Form1.resources
+C:\Users\MSI 1\Downloads\Telegram Desktop\MarioPROJ\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.Properties.Resources.resources
+C:\Users\MSI 1\Downloads\Telegram Desktop\MarioPROJ\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.Start.resources
+C:\Users\MSI 1\Downloads\Telegram Desktop\MarioPROJ\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.csproj.GenerateResource.cache
+C:\Users\MSI 1\Downloads\Telegram Desktop\MarioPROJ\MarioPROJ\MarioPROJ\obj\Debug\MarioPROJ.csproj.CoreCompileInputs.cache
